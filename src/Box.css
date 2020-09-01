@@ -1,0 +1,10 @@
+.Box {
+    width: 13rem;
+    height: 13rem;
+    margin: 0 0.1rem;
+    display: inline-block;
+}
+
+.Box:hover {
+    cursor: pointer;
+}
